@@ -1,5 +1,5 @@
 # COMP5313 Artificial Intelligence
-## Department of Computer Science
+## Department of Computer Science, Lakehead University, Canada
 ### MLP for Image Classification: Connectionist AI
 
 ## Introduction
