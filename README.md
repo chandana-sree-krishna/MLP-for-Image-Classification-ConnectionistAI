@@ -38,7 +38,3 @@ The performance of each model is compared based on their accuracy and implementa
 3. [Review: ResMLP — Feedforward Networks for Image Classification with Data-Efficient Training](https://sh-tsang.medium.com/review-resmlp-feedforward-networks-for-image-classification-with-data-efficient-training-4eeb1eb5efa6)
 4. Lecture slides of Dr. Sabah Mohammad
 
----
-
-**Author:** Chandana Sree Krishna (Student ID: 1226847)  
-**Date:** 07 February 2024
